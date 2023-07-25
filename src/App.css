@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,74 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* body{
+background-color: rgb(11, 31, 211);
+  margin-top: 90px;
+}
+.theme{
+  text-align: center;
+  color: aliceblue;
+  background-color: red;
+  margin-left: 299px;
+  margin-right: 298px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-color: #61dafb;
+  border-radius: 10px;
+  padding-left: 26px;
+  padding-right: 26px;
+} */
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+  border: solid;
+  border-radius: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+background-color: brown;
+padding-bottom: 10px;
+}
+center.cen{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+h1{
+  color: aliceblue;
+  font-family: 'Open Sans', sans-serif;
+}
+h3{color: antiquewhite;
+  font-family: 'Open Sans', sans-serif;
+  font-size: medium;
+  margin-left: 541px;
+}
+select.filt {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.button1{
+  margin-left: 25px;
+  height: 30px;
+  width: 90px;
+  background-color: #f10a0a;
+  border-radius: 50px;
+}
+span{
+  text-indent: 50px;
+}
+.List{
+  /* background-color: burlywood; */
+  background-color:chocolate;
+  border-radius: 10px;
+  margin-left: 300px;
+  padding-left: 0px;
+  margin-right: 300px;
+  padding-bottom: 5px;
+}
+.delete{
+padding-left: 0px;
 }
